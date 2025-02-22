@@ -22,9 +22,11 @@ This project is a YouTube clone built with React.js, utilizing the Google YouTub
 2. Navigate to the project directory:
    ```sh
    cd <project-directory>
+   
 3.Install dependencies:
   ```sh
   npm install
+
 4. Start the application:
   ```sh
   npm start
