@@ -18,15 +18,17 @@ This project is a YouTube clone built with React.js, utilizing the Google YouTub
 1. Clone the repository:
    ```sh
    git clone <repository-url>
-2.Navigate to the project directory:
-```sh
-cd <project-directory>
+   
+2. Navigate to the project directory:
+   ```sh
+   cd <project-directory>
 3.Install dependencies:
 ```sh
 npm install
 4.Start the application:
-```sh
+  ```sh
 npm start
+
 ##API Key
 To use the Google YouTube API, you will need an API key. Follow these steps to obtain one:
 
